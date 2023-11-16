@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "antonpetersson",
+        "MONGO_PASSWORD": "anton",
+        "MONGO_DB": "slepp-tasken"
+    }
+}
